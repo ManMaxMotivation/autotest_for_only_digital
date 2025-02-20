@@ -1,0 +1,25 @@
+{
+  "your_contact_information": {
+    "name": ["test 1", "test 2", "test 3", "test 4"],
+    "phone": ["test 5", "test 6", "test 7"],
+    "email": ["test 8", "test 9", "test 10"],
+    "company": ["test 11", "test 12"]
+  },
+  "about_project": ["test 13", "test 14", "test 15"],
+  "tell_about_project": ["test 16", "test 17", "test 18"],
+  "budget": [
+    "Under 20 000 $",
+    "20 000 $ to 40 000 $",
+    "40 000 $ to 70 000 $",
+    "70 000 $ to 150 000 $",
+    "Over 150 000 $"
+  ],
+  "how_did_you_find_us": [
+    "Ratings",
+    "Website copyright",
+    "Social media",
+    "Recommendations",
+    "Word of mouth"
+  ],
+  "file_path": "/path/to/file"
+}
